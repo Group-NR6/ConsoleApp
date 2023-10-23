@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\alikh\\OneDrive\\Skrivbord\\class uppgifter\\ConsoleApp\\spel\\spel.csproj",
+      "projectUniqueName": "C:\\Users\\alikh\\source\\repos\\ConsoleApp\\spel\\spel.csproj",
       "projectName": "spel",
-      "projectPath": "C:\\Users\\alikh\\OneDrive\\Skrivbord\\class uppgifter\\ConsoleApp\\spel\\spel.csproj",
+      "projectPath": "C:\\Users\\alikh\\source\\repos\\ConsoleApp\\spel\\spel.csproj",
       "packagesPath": "C:\\Users\\alikh\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\alikh\\OneDrive\\Skrivbord\\class uppgifter\\ConsoleApp\\spel\\obj\\",
+      "outputPath": "C:\\Users\\alikh\\source\\repos\\ConsoleApp\\spel\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -67,7 +67,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
       }
     }
   }
