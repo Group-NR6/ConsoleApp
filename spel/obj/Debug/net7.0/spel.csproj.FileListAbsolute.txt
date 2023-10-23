@@ -1,0 +1,15 @@
+C:\Users\alikh\OneDrive\Skrivbord\class uppgifter\ConsoleApp\spel\bin\Debug\net7.0\spel.exe
+C:\Users\alikh\OneDrive\Skrivbord\class uppgifter\ConsoleApp\spel\bin\Debug\net7.0\spel.deps.json
+C:\Users\alikh\OneDrive\Skrivbord\class uppgifter\ConsoleApp\spel\bin\Debug\net7.0\spel.runtimeconfig.json
+C:\Users\alikh\OneDrive\Skrivbord\class uppgifter\ConsoleApp\spel\bin\Debug\net7.0\spel.dll
+C:\Users\alikh\OneDrive\Skrivbord\class uppgifter\ConsoleApp\spel\bin\Debug\net7.0\spel.pdb
+C:\Users\alikh\OneDrive\Skrivbord\class uppgifter\ConsoleApp\spel\obj\Debug\net7.0\spel.csproj.AssemblyReference.cache
+C:\Users\alikh\OneDrive\Skrivbord\class uppgifter\ConsoleApp\spel\obj\Debug\net7.0\spel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alikh\OneDrive\Skrivbord\class uppgifter\ConsoleApp\spel\obj\Debug\net7.0\spel.AssemblyInfoInputs.cache
+C:\Users\alikh\OneDrive\Skrivbord\class uppgifter\ConsoleApp\spel\obj\Debug\net7.0\spel.AssemblyInfo.cs
+C:\Users\alikh\OneDrive\Skrivbord\class uppgifter\ConsoleApp\spel\obj\Debug\net7.0\spel.csproj.CoreCompileInputs.cache
+C:\Users\alikh\OneDrive\Skrivbord\class uppgifter\ConsoleApp\spel\obj\Debug\net7.0\spel.dll
+C:\Users\alikh\OneDrive\Skrivbord\class uppgifter\ConsoleApp\spel\obj\Debug\net7.0\refint\spel.dll
+C:\Users\alikh\OneDrive\Skrivbord\class uppgifter\ConsoleApp\spel\obj\Debug\net7.0\spel.pdb
+C:\Users\alikh\OneDrive\Skrivbord\class uppgifter\ConsoleApp\spel\obj\Debug\net7.0\spel.genruntimeconfig.cache
+C:\Users\alikh\OneDrive\Skrivbord\class uppgifter\ConsoleApp\spel\obj\Debug\net7.0\ref\spel.dll
